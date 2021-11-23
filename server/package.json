@@ -1,0 +1,15 @@
+{
+  "name": "thermostat-tor-api",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "@types/yup": "^0.29.13"
+  }
+}
